@@ -29,7 +29,7 @@
 }
 
 .login-form input {
-  border: 1px solid #a6e5f0;
+  border: 1px solid #2f3131;
   border-radius: 4px;
   padding: 8px 16px;
 }
@@ -40,7 +40,7 @@
   min-width: 86px;
   min-height: 40px;
 
-  background-color: #cea5f2;
+  background-color: #0e0237;
 
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;

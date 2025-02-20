@@ -7,9 +7,9 @@ ul#categories {
 }
 
 #categories > .item {
-  border-radius: 8px;
+  border-radius: 16px;
   padding: 16px;
-  min-width: 392px;
+  min-width: 400px;
   background-color: #f6f6fe;
 }
 
